@@ -21,7 +21,7 @@ Lista de projetos em Jupyter Notebook:
 
 # About me:
 
-As a Data Scientist, Python Developer and Field Service Technician ( Oil Industry) I combine analytical skills, ability to work in team environments, attention to details. Spending the last years working under pressure and in some harzard enviromment I developed a critical thinking and problem-solving skills to help clients achive their business goals.
+As a Data Scientist, Python Developer and Field Service Technician ( Oil Industry) I combine analytical skills, ability to work in team environments and attention to details. Spending the last years working under pressure and working in harzard enviromment I developed a critical thinking and problem-solving skills to help clients achive their business goals.
 
 My credentials include:
 
@@ -34,8 +34,3 @@ My credentials include:
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/pierrebomfim/)
 * [Medium](https://medium.com/@pierrebomfim)
----
-
-
-
-
