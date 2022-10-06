@@ -25,7 +25,7 @@ As a Data Scientist, Python Developer and Field Service Technician ( Oil Industr
 
 My credentials include:
 
-* Graduate in Systens Analysis
+* Graduate in System Analysis and Development
 * Technical College in Electronics
 * Data Acquisition System Espec ( Abu Dhabi, UAE)
 * Managed Pressure Drilling Espec ( Houston, USA)
