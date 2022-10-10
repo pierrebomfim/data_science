@@ -9,7 +9,8 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 # Projetos:
 Lista de projetos em Jupyter Notebook:
 
-- [x] Análise dos Dados do Airbnb para o Rio de Janeiro
+- [x] Análise dos Dados do Airbnb - ROMA
+      - obs: a visualização dos mapas só é possível no ambiente do colab.
 - [ ] Estudo de casos da COVID-19
 - [ ] Detecção de Fraudes em Cartões de Crédito
 - [ ] Churn prediction - Empresa de telecom
