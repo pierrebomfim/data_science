@@ -10,7 +10,7 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 Lista de projetos em Jupyter Notebook:
 
 - [x] Análise dos Dados do Airbnb - ROMA
-- [ ] Estudo de casos da COVID-19
+- [x] Estudo de casos da COVID-19
 - [ ] Detecção de Fraudes em Cartões de Crédito
 - [ ] Churn prediction - Empresa de telecom
 - [ ] Machine Learning para a Detecção de Câncer de Mama
